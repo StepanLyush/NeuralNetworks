@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['football-players']
+
+roboflow:
+  workspace: med-i8tmk
+  project: football-players-detection-5gajz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/med-i8tmk/football-players-detection-5gajz/dataset/1

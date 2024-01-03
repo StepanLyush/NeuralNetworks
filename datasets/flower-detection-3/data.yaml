@@ -1,0 +1,13 @@
+names:
+- freesia
+- gypsophila
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: flower-detection-hiutj
+  url: https://universe.roboflow.com/flower-42dyl/flower-detection-hiutj/dataset/3
+  version: 3
+  workspace: flower-42dyl
+test: ../test/images
+train: flower-detection-3/train/images
+val: flower-detection-3/valid/images
