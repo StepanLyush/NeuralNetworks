@@ -1,0 +1,1 @@
+This is a repository where I study, test and follow guides on neural networks.
